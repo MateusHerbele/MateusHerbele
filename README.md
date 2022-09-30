@@ -26,6 +26,8 @@ Linguagens e Tecnologias com experiência:
  
  <p>Durante os anos antes do meu ingresso na universidade consegui diversas experiências profissionais, mas a mais importante foi na empresa LumiCenter, onde atuei como auxiliar de desenvolvimento de produtos e tive contato com eletrônica de potência e com a programação de sistemas embarcados, que despertou um novo interesse por essa área, podendo integrar diversos ramos da programação para a execução de sensores e dimerizadores. 
  <p>Atualmente me encontro ingressando no segundo período da faculdade, que até agora me apresentou diversos desafios e para esse próximo semestre promete muito mais.
+ 
+ Pretendo agora preencher com maior frequência esse perfil, para que eu consiga um portfólio sólido e que mostre minha evolução.
 
 
 
