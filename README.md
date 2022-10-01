@@ -35,6 +35,7 @@ Linguagens e Tecnologias com experiência:
 
 ![mateus-gif](https://user-images.githubusercontent.com/73367371/193378168-b94dbe4d-2b4a-4b35-be2d-b6cfacf48923.gif)
 
+#
 
 <describe>
 <summary><h3> Projetos externos a programação: </h3></sumary>
