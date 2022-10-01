@@ -29,6 +29,11 @@ Linguagens e Tecnologias com experiência:
  
  Pretendo agora preencher com maior frequência esse perfil, para que eu consiga um portfólio sólido e que mostre minha evolução.
 
+#
+<h3>Preview do meu jogo em desenvolvimento🎮🧟‍♂️:</h3>
+
+
+![2022_09_30_133845_2 (1)](https://user-images.githubusercontent.com/73367371/193375784-3bca7e2a-b075-4810-bb5f-e1a8b035f389.gif)
 
 
  
