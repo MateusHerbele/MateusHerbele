@@ -33,7 +33,7 @@ Linguagens e Tecnologias com experiência:
 <h3>Preview do meu jogo em desenvolvimento🎮🧟‍♂️:</h3>
 
 
-![2022_09_30_133845_2 (1)](https://user-images.githubusercontent.com/73367371/193375784-3bca7e2a-b075-4810-bb5f-e1a8b035f389.gif)
+![mateus-gif](https://user-images.githubusercontent.com/73367371/193378168-b94dbe4d-2b4a-4b35-be2d-b6cfacf48923.gif)
 
 
  
