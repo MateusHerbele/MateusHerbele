@@ -1,4 +1,4 @@
-# Mateus Herbele🧩
+# Mateus Herbele
 
 🖥️Estudante de Ciência da Computação da UFPR📓
 
