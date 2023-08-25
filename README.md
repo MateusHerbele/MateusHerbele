@@ -4,7 +4,7 @@
 
 🐝Membro da equipe Yapira de robótica da UFPR🤖
 
-Membro do PET Computação da UFPR
+💜Membro do PET Computação da UFPR💜
 
 Linguagens e Tecnologias com experiência:
 
@@ -26,7 +26,7 @@ Linguagens e Tecnologias com experiência:
    <p>Optei no ensino médio por realizar uma formação integrada com o ensino técnico em eletrônica, e uma das matérias na qual eu mais me afeiçoei foi programação. Nessa matéria tive introdução a algoritmos e ao funcionamento da linguagem C que seria posteriormente importante para a programação de microprocessadores. Assim, fui buscar aperfeiçoar meu conhecimento, através de conteúdos online, tentando fazer um jogo sem utilizar nenhuma game engine, utilizando apenas Java(linguagem que foi utilizada por grandes clássicos). Foi um processo complexo, mas muito conhecimento foi adquirido no caminho, além da confirmação que gostaria de seguir nessa área o que motivou meus estudos no vestibular para ingressar na faculdade de Ciência da Computação. 
  
  <p>Durante os anos antes do meu ingresso na universidade consegui diversas experiências profissionais, mas a mais importante foi na empresa LumiCenter, onde atuei como auxiliar de desenvolvimento de produtos e tive contato com eletrônica de potência e com a programação de sistemas embarcados, que despertou um novo interesse por essa área, podendo integrar diversos ramos da programação para a execução de sensores e dimerizadores. 
- <p>Atualmente me encontro ingressando no segundo período da faculdade, que até agora me apresentou diversos desafios e para esse próximo semestre promete muito mais.
+ <p>Atualmente me encontro ingressando no quarto período da faculdade, que até agora me apresentou diversos desafios e para esse próximo semestre promete muito mais.
  
  Pretendo agora preencher com maior frequência esse perfil, para que eu consiga um portfólio sólido e que mostre minha evolução.
 
