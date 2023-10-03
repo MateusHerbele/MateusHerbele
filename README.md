@@ -44,6 +44,3 @@ Linguagens e Tecnologias com experiência:
 <p>Realizado poucos meses depois da tragédia da quebra da barragem de Brumadinho, buscava ser um equipamento capaz de sentir tremores sísmicos a distância, podendo ser de fácil produção e barato, assim atendendo uma demanda social que era esperada do projeto.
 A construnção era simples, se baseava em um Arduino funcionando com alguns leds e um buzzer para que servissem de alerta e emitissem o nível do tremor. O projeto tinha uma tecnologia adaptada que era utilizada nas antigas máquinas de pinball, na qual o circuito era fechado quando algum pêndulo de metal que estava energizado entrasse em contato com uma argola conecetada no arduino, assim existiam 3 níveis de argolas, cada uma com seu pêndulo, e cada uma com um raio diferente.
 Recebemos diversos elogios e votos para o melhor projeto, muitos professores incentivaram a patenteação do projeto, mas o grupo decidiu por aprimorar quesitos para a próxima mostra e a partir daí tentar a patenteação, porém pela pandemia as próximas mostras que aconteceriam no período que estavamos legíveis para participar foram canceladas, deixando assim o projeto parado temporariamente.
-
- 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
