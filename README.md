@@ -31,7 +31,7 @@ Linguagens e Tecnologias com experiência:
  Pretendo agora preencher com maior frequência esse perfil, para que eu consiga um portfólio sólido e que mostre minha evolução.
 
 #
-<summary><h3>Preview do meu jogo em desenvolvimento🎮🧟‍♂️:</h3></summary>
+<summary><h3>Jogo desenvolvido em Java durante meu ensino médio🎮🧟‍♂️:</h3></summary>
 
 
 ![mateus-gif](https://user-images.githubusercontent.com/73367371/193378168-b94dbe4d-2b4a-4b35-be2d-b6cfacf48923.gif)
