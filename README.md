@@ -1,24 +1,16 @@
 # Mateus Herbele
 
-🖥️Estudante de Ciência da Computação da UFPR📓
+Estudante de Ciência da Computação da UFPR 🖥️
 
-🐝Membro da equipe Yapira de robótica da UFPR🤖
-
-💜Membro do PET Computação da UFPR💜
-
-Linguagens e Tecnologias com experiência:
-
-
+Bolsista no Centro de Computação Científica - C3SL🦖
+<!-- Linguagens e Tecnologias com experiência:
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-
-
 <br>
-
 #
 
 
@@ -44,3 +36,4 @@ Linguagens e Tecnologias com experiência:
 <p>Realizado poucos meses depois da tragédia da quebra da barragem de Brumadinho, buscava ser um equipamento capaz de sentir tremores sísmicos a distância, podendo ser de fácil produção e barato, assim atendendo uma demanda social que era esperada do projeto.
 A construnção era simples, se baseava em um Arduino funcionando com alguns leds e um buzzer para que servissem de alerta e emitissem o nível do tremor. O projeto tinha uma tecnologia adaptada que era utilizada nas antigas máquinas de pinball, na qual o circuito era fechado quando algum pêndulo de metal que estava energizado entrasse em contato com uma argola conecetada no arduino, assim existiam 3 níveis de argolas, cada uma com seu pêndulo, e cada uma com um raio diferente.
 Recebemos diversos elogios e votos para o melhor projeto, muitos professores incentivaram a patenteação do projeto, mas o grupo decidiu por aprimorar quesitos para a próxima mostra e a partir daí tentar a patenteação, porém pela pandemia as próximas mostras que aconteceriam no período que estavamos legíveis para participar foram canceladas, deixando assim o projeto parado temporariamente.
+-->
